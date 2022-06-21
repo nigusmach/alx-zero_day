@@ -1,13 +1,2 @@
 #!/bin/bash
-o "ALX School
-
-
-
-
-
-
-
-
-
-
-"
+echo "ALX School"
